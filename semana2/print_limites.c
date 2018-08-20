@@ -1,3 +1,5 @@
+/* Este programa fue actualizado el 14/08/18 */
+
 #include <stdio.h>
 #include <float.h> 
 #include <limits.h>
