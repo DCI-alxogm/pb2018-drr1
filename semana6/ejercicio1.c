@@ -49,7 +49,7 @@ int main()
 						}
 
 		
-printf("La calificación promedio es %f. Se reportaron 10 estudiantes, de los cuales %i son hombres y %i son mujeres",promedio,count,count2);
+printf("La calificación promedio es %f. Se reportaron 10 estudiantes, de los cuales %i son hombres y %i son mujeres. En el primer semestre hay %i, en el segundo %i, en el tercero %i, en el cuarto %i, en el quinto semestre %i, en el sexto %i, en el septimo %i, octavo %i y en el noveno %i",promedio,count,count2, countsem1,countsem2,countsem3,countsem4,countsem5,countsem6,countsem7,countsem8,countsem9);
 
 	}
 		
