@@ -1,0 +1,30 @@
+Del numero 1.000000 los datos son:
+El exponente es 2.718282 
+El logaritmo es 0.000000 
+El seno es 0.841471 
+El coseno es 0.540302 
+La raiz es 1.000000 
+Del numero 2.000000 los datos son:
+El exponente es 7.389056 
+El logaritmo es 0.693147 
+El seno es 0.909297 
+El coseno es -0.416147 
+La raiz es 1.414214 
+Del numero 3.000000 los datos son:
+El exponente es 20.085537 
+El logaritmo es 1.098612 
+El seno es 0.141120 
+El coseno es -0.989992 
+La raiz es 1.732051 
+Del numero 4.000000 los datos son:
+El exponente es 54.598148 
+El logaritmo es 1.386294 
+El seno es -0.756802 
+El coseno es -0.653644 
+La raiz es 2.000000 
+Del numero 5.000000 los datos son:
+El exponente es 148.413162 
+El logaritmo es 1.609438 
+El seno es -0.958924 
+El coseno es 0.283662 
+La raiz es 2.236068 
