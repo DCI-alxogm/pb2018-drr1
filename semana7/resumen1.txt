@@ -1,0 +1,7 @@
+del numero 0.000000 la funcion es 0.000000 y la integral 0.000000 
+ del numero 2.000000 la funcion es 4.000000 y la integral 0.768751 
+ del numero 4.000000 la funcion es 16.000000 y la integral 7.527980 
+ del numero 6.000000 la funcion es 36.000000 y la integral 32.548752 
+ del numero 8.000000 la funcion es 64.000000 y la integral 107.125465 
+ del numero 10.000000 la funcion es 100.000000 y la integral 335.000000 
+ 
